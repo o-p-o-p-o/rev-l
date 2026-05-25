@@ -1,3 +1,4 @@
+c3774168f7a7d91be693dbb52c01b134 *./.DS_Store
 8f3b3864c52cf51814fdf0fa0b2b741b *./audio/advance.wav
 5eca4d35fc8ee3ea435560da0eca6c6d *./audio/anvil.wav
 a35f59926c22a2763a898509ac46ac05 *./audio/chisel.wav
@@ -37,12 +38,9 @@ e975b69136d8cea9eafd1f7dad2f6e92 *./audio/spellok.wav
 bbe470bcd82a2e2dc605760d7d0ffaa5 *./audio/takeobject.wav
 e2721d63e3df7b55e081ee71c66e56c3 *./audio/underattack.wav
 6fabaf1726a553115835427a7f3ae269 *./audio/victory.wav
-70a77a7b18554b81941b23e966b76561 *./config.txt
-6bfc72e4eaf1f6107c21940ad8462d9a *./ip.txt
-34a23b76545ce5db1ce5c5832e07ff60 *./MD5.SUM
-981f91d6df305da9b6cb40ea5a2c5fbd *./RevivalClient.jar
-4e771adad220dc9668f259ea415cc496 *./port.txt
-d41d8cd98f00b204e9800998ecf8427e *./uid.dat
+a4666e5438c672c334bdaf3df01350e7 *./RevivalClient.jar
+31655fb01756df4edf67aa836c0e0715 *./RevivalLauncher.jar
+ce7881e171006f091a98cce634bf6871 *./revivalrsc.apk
 6cdb4549a7813f54a3473564a3231399 *./video/Authentic_Landscape.orsc
 3bbc851bd8a0aff7dc4a01ca327b30bc *./video/Authentic_Sprites.orsc
 ba5c7a0ff0451b1430cc009c3eabf319 *./video/Custom_Landscape.orsc

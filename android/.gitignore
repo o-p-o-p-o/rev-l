@@ -1,6 +1,0 @@
-# macOS
-.DS_Store
-
-# IntelliJ / Android Studio
-/.idea/
-/*.iml
