@@ -1,8 +1,0 @@
-# IntelliJ IDEA
-.idea/
-*.iml
-*.iws
-*.ipr
-
-# macOS Finder
-.DS_Store
