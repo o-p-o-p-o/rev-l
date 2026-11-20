@@ -1,5 +1,7 @@
 c3774168f7a7d91be693dbb52c01b134 *./.DS_Store
 d41d8cd98f00b204e9800998ecf8427e *./.gitkeep
+fb59cd7e672914428f888670e64b3056 *./RevivalClient.jar
+9aa6cb17c1e45ca5213f435dfee6830c *./RevivalLauncher.jar
 8f3b3864c52cf51814fdf0fa0b2b741b *./audio/advance.wav
 5eca4d35fc8ee3ea435560da0eca6c6d *./audio/anvil.wav
 a35f59926c22a2763a898509ac46ac05 *./audio/chisel.wav
@@ -39,8 +41,6 @@ e975b69136d8cea9eafd1f7dad2f6e92 *./audio/spellok.wav
 bbe470bcd82a2e2dc605760d7d0ffaa5 *./audio/takeobject.wav
 e2721d63e3df7b55e081ee71c66e56c3 *./audio/underattack.wav
 6fabaf1726a553115835427a7f3ae269 *./audio/victory.wav
-c9ab649dc5adddd2ccc1fbd5fe73538b *./RevivalClient.jar
-1970788db382a90676a190e3ab2cabf6 *./RevivalLauncher.jar
 6cdb4549a7813f54a3473564a3231399 *./video/Authentic_Landscape.orsc
 3bbc851bd8a0aff7dc4a01ca327b30bc *./video/Authentic_Sprites.orsc
 b8e93629fece5d2fabe7f3e987cbe403 *./video/Custom_Landscape.orsc
